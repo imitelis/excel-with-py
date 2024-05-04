@@ -1,4 +1,4 @@
-#Apply formulas to excel workbooks
+# Apply formulas to excel workbooks
 import openpyxl
 
 excel_files = ['Users/SampleData2.xlsx']
